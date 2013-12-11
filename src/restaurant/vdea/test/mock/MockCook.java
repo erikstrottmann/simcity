@@ -45,4 +45,10 @@ public class MockCook extends Mock implements Cook {
 		
 	}
 
+	@Override
+	public void stateChanged() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

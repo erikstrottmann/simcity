@@ -102,8 +102,14 @@ public class BuildingPosParser {
 			response.add(new BuildingDef(name, buildingType, buildingCreator));
 			
 		}
+	
 		
 		if (scanner != null) scanner.close();
+		
+		for (int i = 0; i < 6; i++) {
+			response.add(new BuildingDef("", LocationTypeEnum.None, CreatorEnum.UNKNOWN));
+		}
+		
 		
 		return response;
 	}

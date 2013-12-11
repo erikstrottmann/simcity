@@ -69,7 +69,7 @@ Our creation panel has two buttons. The "Create" button creates one person with 
 + PersonAgent and role system design and implementation
 + Time management and scheduling
 + Designed a role factory
-+ Initial restaurant integration (with Victoria)
++ First restaurant integration (with Victoria)
 + Mentored teammates in Person/Role interactions, as well as restaurant integration
 + Designed interactions between restaurants and the new markets
 + Modified configuration parser to include all six restaurants in the city

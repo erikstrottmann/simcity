@@ -57,12 +57,13 @@ Our creation panel has two buttons. The "Create" button creates one person with 
 + Person creation panel (with Victoria)
 	+ Classifieds class that keeps track of all WorkRoles by building and availability, and all residential rooms by availability.
 	+ Workplace, job, residence, status, hunger level, willingness to go to restaurant, food at home, and car checking and setting.
-+ Transportation (Buses, cars and walking people) design, implementation and GUI.
++ Transportation (Buses, cars, traffic lights and walking people) design, implementation and GUI.
 	+ Map builder class that creates and links the corners, bus stops, and creates the bus routes.
 + Parsers for configuration files.
 + "Kelp" system for finding routes from one location to another, and finding nearest buildings of a certain type.
 + Scenario panel backend.
-
++ Transportation non-norms
++ Added restaurant
 
 ###Erik Strottmann
 + Team leader
@@ -90,7 +91,10 @@ Our creation panel has two buttons. The "Create" button creates one person with 
 		+ Name field checking and assigning.
 + Restaurant integration (with Erik)
 + Image editing and collection for MainFrame and Building role GUIs.
-+ Mentored other group members with their AnimationPanel and other GUI elements.
++ Mentored other group members with their AnimationPanel and other GUI elements
++ Created log display
++ Created scenarios panel
++ Created base Restaurant information panel for all restaurants
 
 ###Zach Vega-Perkins
 + Housing design, implementation and GUI.

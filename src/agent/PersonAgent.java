@@ -563,8 +563,8 @@ public class PersonAgent extends Agent implements Person {
 	
 	public double getCashierMoney() {
 		for(Role r: roles) {
-			if(r instanceof restaurant.lucas.CashierRole){
-				return ((restaurant.lucas.CashierRole) r).getRestaurantMoney();
+			if(r instanceof restaurant.jack.CashierRole){
+				return ((restaurant.jack.CashierRole) r).getRestaurantMoney();
 			}
 		}
 		return -1;

@@ -31,7 +31,7 @@ import parser.BuildingDef;
 import parser.BuildingDef.CreatorEnum;
 import parser.BuildingPosParser;
 import parser.CornersWithBusstopsParser;
-import restaurant.lucas.gui.RestaurantLucasBuilding;
+import restaurant.jack.gui.RestaurantLucasBuilding;
 import restaurant.anthony.gui.RestaurantBuilding;
 import restaurant.strottma.gui.RestaurantStrottmaBuilding;
 import restaurant.vegaperk.backend.RestaurantVegaPerkBuilding;

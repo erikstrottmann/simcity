@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 import agent.PersonAgent;
 import agent.interfaces.Person;
-import restaurant.lucas.interfaces.Cook;
+import restaurant.jack.interfaces.Cook;
 import restaurant.vonbeck.CashierRole;
 import restaurant.vonbeck.CookRole;
 import restaurant.vonbeck.CustomerRole;
